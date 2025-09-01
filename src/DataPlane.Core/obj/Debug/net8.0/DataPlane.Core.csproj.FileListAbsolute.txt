@@ -1,0 +1,12 @@
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/bin/Debug/net8.0/DataPlane.Core.deps.json
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/bin/Debug/net8.0/DataPlane.Core.dll
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/bin/Debug/net8.0/DataPlane.Core.pdb
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/DataPlane.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/DataPlane.Core.AssemblyInfoInputs.cache
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/DataPlane.Core.AssemblyInfo.cs
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/DataPlane.Core.csproj.CoreCompileInputs.cache
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/DataPlane.Core.sourcelink.json
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/DataPlane.Core.dll
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/refint/DataPlane.Core.dll
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/DataPlane.Core.pdb
+/workspaces/edc-dataplane-mcp/src/DataPlane.Core/obj/Debug/net8.0/ref/DataPlane.Core.dll
