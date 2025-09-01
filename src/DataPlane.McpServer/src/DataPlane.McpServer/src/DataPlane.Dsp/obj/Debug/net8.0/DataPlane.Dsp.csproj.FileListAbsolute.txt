@@ -1,0 +1,12 @@
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/bin/Debug/net8.0/DataPlane.Dsp.deps.json
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/bin/Debug/net8.0/DataPlane.Dsp.dll
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/bin/Debug/net8.0/DataPlane.Dsp.pdb
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/DataPlane.Dsp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/DataPlane.Dsp.AssemblyInfoInputs.cache
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/DataPlane.Dsp.AssemblyInfo.cs
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/DataPlane.Dsp.csproj.CoreCompileInputs.cache
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/DataPlane.Dsp.sourcelink.json
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/DataPlane.Dsp.dll
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/refint/DataPlane.Dsp.dll
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/DataPlane.Dsp.pdb
+/workspaces/edc-dataplane-mcp/src/DataPlane.McpServer/src/DataPlane.McpServer/src/DataPlane.Dsp/obj/Debug/net8.0/ref/DataPlane.Dsp.dll

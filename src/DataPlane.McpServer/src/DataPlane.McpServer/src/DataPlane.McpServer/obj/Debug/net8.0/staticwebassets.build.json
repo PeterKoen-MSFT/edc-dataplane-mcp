@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HwAu6CXcVyXlDS/FlHNVk7W4AzlqvulLclGhfgDTeTM=",
+  "Source": "DataPlane.McpServer",
+  "BasePath": "_content/DataPlane.McpServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

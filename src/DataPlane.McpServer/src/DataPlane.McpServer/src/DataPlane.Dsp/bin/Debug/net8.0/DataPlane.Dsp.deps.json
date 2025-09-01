@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataPlane.Dsp/1.0.0": {
+        "runtime": {
+          "DataPlane.Dsp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataPlane.Dsp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

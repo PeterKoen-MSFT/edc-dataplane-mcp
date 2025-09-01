@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2B508A12-C144-46DB-974D-D168AD336C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPlane.Core", "src\DataPlane.Core\DataPlane.Core.csproj", "{1DE88496-44C7-4D9F-A187-B7D0776B76D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPlane.Dsp", "src\DataPlane.Dsp\DataPlane.Dsp.csproj", "{25757DC4-92C2-4914-98CF-507C5AAD6245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPlane.McpServer", "src\DataPlane.McpServer\DataPlane.McpServer.csproj", "{B07D63EF-8499-4409-8CB2-F668E3D71418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPlane.McpClient", "src\DataPlane.McpClient\DataPlane.McpClient.csproj", "{7F117B36-0144-4968-92F4-7D30918B1779}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{AFBFA315-5C48-4BD4-9193-C267E0DF028C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPlane.McpServer.Tests", "tests\DataPlane.McpServer.Tests\DataPlane.McpServer.Tests.csproj", "{5C13E332-AD1D-467B-850D-6B50FB07027F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataPlane.Tests", "tests\DataPlane.Tests\DataPlane.Tests.csproj", "{F3C3E512-35EB-4191-A4C8-538716FCCED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE88496-44C7-4D9F-A187-B7D0776B76D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE88496-44C7-4D9F-A187-B7D0776B76D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE88496-44C7-4D9F-A187-B7D0776B76D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE88496-44C7-4D9F-A187-B7D0776B76D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25757DC4-92C2-4914-98CF-507C5AAD6245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25757DC4-92C2-4914-98CF-507C5AAD6245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25757DC4-92C2-4914-98CF-507C5AAD6245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25757DC4-92C2-4914-98CF-507C5AAD6245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07D63EF-8499-4409-8CB2-F668E3D71418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07D63EF-8499-4409-8CB2-F668E3D71418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07D63EF-8499-4409-8CB2-F668E3D71418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07D63EF-8499-4409-8CB2-F668E3D71418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F117B36-0144-4968-92F4-7D30918B1779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F117B36-0144-4968-92F4-7D30918B1779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F117B36-0144-4968-92F4-7D30918B1779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F117B36-0144-4968-92F4-7D30918B1779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C13E332-AD1D-467B-850D-6B50FB07027F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C13E332-AD1D-467B-850D-6B50FB07027F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C13E332-AD1D-467B-850D-6B50FB07027F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C13E332-AD1D-467B-850D-6B50FB07027F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C3E512-35EB-4191-A4C8-538716FCCED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C3E512-35EB-4191-A4C8-538716FCCED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C3E512-35EB-4191-A4C8-538716FCCED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C3E512-35EB-4191-A4C8-538716FCCED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1DE88496-44C7-4D9F-A187-B7D0776B76D4} = {2B508A12-C144-46DB-974D-D168AD336C1D}
+		{25757DC4-92C2-4914-98CF-507C5AAD6245} = {2B508A12-C144-46DB-974D-D168AD336C1D}
+		{B07D63EF-8499-4409-8CB2-F668E3D71418} = {2B508A12-C144-46DB-974D-D168AD336C1D}
+		{7F117B36-0144-4968-92F4-7D30918B1779} = {2B508A12-C144-46DB-974D-D168AD336C1D}
+		{5C13E332-AD1D-467B-850D-6B50FB07027F} = {AFBFA315-5C48-4BD4-9193-C267E0DF028C}
+		{F3C3E512-35EB-4191-A4C8-538716FCCED6} = {AFBFA315-5C48-4BD4-9193-C267E0DF028C}
+	EndGlobalSection
+EndGlobal
