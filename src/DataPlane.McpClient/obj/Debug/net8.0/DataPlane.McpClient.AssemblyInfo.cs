@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataPlane.McpClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d9e286e7fe5460da8227139d813c2db6a01433")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bfaacef138518e97e67a9eb7b9e342abe8d78cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataPlane.McpClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataPlane.McpClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
